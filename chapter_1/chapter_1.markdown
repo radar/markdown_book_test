@@ -26,3 +26,11 @@ Here's a code example:
         end
       end
     end
+
+## Here's a table:
+
+| id  | title | comment | project_id | user_id |
+| --- | ----- | ------- | ---------- | ------- |
+| 1   |       |         | 1          | 1       |
+| 2   |       |         | 1          | 1       |
+| 3   |       |         | 1          | 2       |
