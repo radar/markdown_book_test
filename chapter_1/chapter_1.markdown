@@ -27,6 +27,8 @@ Here's a code example:
       end
     end
 
+Here's a paragraph right after a code block. Sometimes these can appear a little too close to each other!
+
 ## Here's a table:
 
 | id  | title | comment | project_id | user_id |
